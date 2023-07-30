@@ -1,10 +1,9 @@
 # Data_Analysis_Excel_Blue_Collection_Anual_Sales
 # Blue Collection Sales Data Analysis-2022_
-Introducing an exceptional Excel & Power Bi dashboard project that maximizes the dataset's potential. Through meticulous data cleansing, transformation, and analysis, it delivers a dynamic dashboard for informed decision-making and operational excellence at Vrinda Store.
 
 **Introduction**
 
-This report provides a comprehensive analysis of the sales and orders for Vrinda Store, aiming to optimize operations and drive growth. Key metrics such as sales vs. orders, gender vs. order amount, order status vs. order, top ordering states, channels vs. state, age group vs. gender, and order vs. channel in percentage are examined.
+This report provides a comprehensive analysis of the sales and orders for Blue Collection, aiming to optimize operations and drive growth. Key metrics such as sales vs. orders, gender vs. order amount, order status vs. order, top ordering states, channels vs. state, age group vs. gender, and order vs. channel in percentage are examined.
 
 1. Sales vs Order
 
@@ -36,7 +35,7 @@ Amazon consistently held the highest percentage of orders, followed by Myntra an
 
 **Conclusion**
 
-In conclusion, this sales and order analysis provides insights to optimize operations and drive growth for Vrinda Store. Suggestions for strategic decision-making include leveraging successful sales months, targeting male customers, reducing cancellations and returns, focusing efforts on top ordering states, optimizing channel performance, targeting specific age groups, and staying informed about market trends.
+In conclusion, this sales and order analysis provides insights to optimize operations and drive growth for Blue Collection. Suggestions for strategic decision-making include leveraging successful sales months, targeting male customers, reducing cancellations and returns, focusing efforts on top ordering states, optimizing channel performance, targeting specific age groups, and staying informed about market trends.
 
 **Recommendations:**
 
